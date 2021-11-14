@@ -1,0 +1,17 @@
+{
+    "name": "mary/router",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Mary\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MaruSoul",
+            "email": "soulmeri0@gmail.com"
+        }
+    ],
+    "require": {}
+}

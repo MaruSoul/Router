@@ -1,2 +1,2 @@
 # Router
-home work 6 fot Hillel
+home work 6 for Hillel
